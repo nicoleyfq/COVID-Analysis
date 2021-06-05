@@ -1,0 +1,7 @@
+Which tables did we use:
+
+
+
+S1501 - Educational Attainment
+
+Population Density - https://www.census.gov/programs-surveys/geography/guidance/geo-areas/urban-rural/2010-urban-rural.html

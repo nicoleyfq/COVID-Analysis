@@ -16,7 +16,7 @@ The contagious nature of COVID-19 has allowed the virus to propagate quickly and
 1. **model** : contains all **.ipynb** for our models and visualizations
 2. **data.zip** : contains the dataset we used for this project
 3. **requirement.txt** required Python libraries for this project
-3. **CovidAnalysis.pdf** project report explain detailed problem definition, proposed methodology and experiments result
+3. **covid_analysis_report.pdf** project report explain detailed problem definition, proposed methodology and experiments result
 
 <a name="run"/></a>
 ## How to Run Code

@@ -31,7 +31,8 @@ pip install -r requirements.txt
 
 <a name="data"/></a>
 ## About Dataset
-Our final, analysis-based dataset is consolidated from three separate datasets, which we explain in detail:
+
+Besides data.zip file, we also include the resource website to download the data files needed for our project inside each jupyter notebook. Our final, analysis-based dataset is consolidated from three separate datasets, which we explain in detail:
 
 1. **2020 Census:** The 2020 census data has a large variety of datasets corresponding to multiple societal topics (e.g. income, location, employment, family) -- and granular breakdowns for each category. Due to the complex computational need for full analysis, we select specific subcategories to integrate within our model. These subcategories include Income-Poverty Ratio, Age, Education Level, Population, and Population Density.
 
@@ -39,4 +40,4 @@ Our final, analysis-based dataset is consolidated from three separate datasets, 
 
 3. **County-level Adjacency Matrix** To ensure a graphical component to our analysis, we obtained a dataset that represents, on a county level, neighboring counties to any of the ~3000 points within the US. 
 
-4. **Multi-scale Dynamic Human Mobility Flow Dataset** This <a href=https://github.com/GeoDS/COVID19USFlows> dataset </a> attempted to predict human mobility flow during the COVID-19 epidemic. It is an up-to-date multiscale dynamic human mobility flow dataset across the United States,
+4. **Multi-scale Dynamic Human Mobility Flow Dataset** This <a href=https://github.com/GeoDS/COVID19USFlows> dataset </a> attempted to predict human mobility flow during the COVID-19 epidemic. It is an up-to-date multiscale dynamic human mobility flow dataset across the United States.
